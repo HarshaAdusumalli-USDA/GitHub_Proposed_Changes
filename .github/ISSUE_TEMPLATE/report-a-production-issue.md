@@ -4,6 +4,9 @@ about: To report any issues in Production environment
 
 ---
 
+**Assignee or Assignees**
+Ensure to assign to / send to a user or set of users.
+
 **Production Issue Description**
 A clear and concise description of what the issue is.
 
