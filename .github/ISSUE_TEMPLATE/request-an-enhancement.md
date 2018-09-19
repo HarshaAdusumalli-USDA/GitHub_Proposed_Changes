@@ -4,6 +4,9 @@ about: To request an enhancement for the project
 
 ---
 
+**Assignee or Assignees**
+Ensure to assign to / send to a user or set of users.
+
 **Enhancement Title**
 A clear and concise description of what the problem is. 
 
