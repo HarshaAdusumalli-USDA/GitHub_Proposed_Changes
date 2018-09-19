@@ -4,11 +4,17 @@ about: To request an enhancement for the project
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Enhancement Title**
 A clear and concise description of what the problem is. 
 
-**Describe the solution you'd like**
+**Applications Impacted**
+Define the application(s) this would impact
+
+**Enhancement Description**
 A clear and concise description of what you want to happen.
 
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or features you've considered.
+
+**Note**
+Please select the Type and Priority for this issue
