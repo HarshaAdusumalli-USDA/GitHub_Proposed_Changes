@@ -1,6 +1,6 @@
 ---
 name: 'Report a Bug '
-about: If the system is not working as designed
+about: If the system is not working as designed in non-production environments
 
 ---
 
