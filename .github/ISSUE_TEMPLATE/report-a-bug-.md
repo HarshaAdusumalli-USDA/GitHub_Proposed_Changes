@@ -4,6 +4,9 @@ about: If the system is not working as designed in non-production environments
 
 ---
 
+**Assignee or Assignees**
+Ensure to assign to / send to a user or set of users.
+
 **Bug Description**
 A clear and concise description of what the bug is.
 
