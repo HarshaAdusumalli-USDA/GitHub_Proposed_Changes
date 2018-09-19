@@ -4,15 +4,14 @@ about: If the system is not working as designed
 
 ---
 
-**Describe the bug**
+**Bug Description**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Applications Impacted**
+Define the application(s) this would impact
+
+**Steps To Reproduce**
+Define the steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -21,4 +20,4 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Note**
-Please select the Type and Priority of the issue
+Please select the Type and Priority for this issue
