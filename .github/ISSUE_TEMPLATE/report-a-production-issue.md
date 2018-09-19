@@ -17,4 +17,4 @@ A clear and concise description of what is expected to happen.
 If applicable, add screenshots to help explain the problem.
 
 **Note**
-Add any other context about the problem here.
+Please select the Type and Priority for this issue
