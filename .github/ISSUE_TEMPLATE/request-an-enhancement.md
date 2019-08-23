@@ -23,5 +23,5 @@ A clear and concise description of what you want to happen.
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Note**
-- [] Confirm that priority is set.
+- [ ] Confirm that priority is set.
 Please select the Type and Priority for this issue
