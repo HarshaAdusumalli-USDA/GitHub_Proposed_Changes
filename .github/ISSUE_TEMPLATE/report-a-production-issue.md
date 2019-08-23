@@ -1,6 +1,9 @@
 ---
 name: Report a Production Issue
 about: To report any issues in Production environment
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
